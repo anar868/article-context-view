@@ -21,13 +21,13 @@
     "article-context-view",
     "ArticleContextView"
   ],
-  "repository": "https://github.com/anar868/article-context",
+  "repository": "https://github.com/anar868/article-context-view",
   "bugs": {
-    "url": "https://github.com/anar868/article-context/issues"
+    "url": "https://github.com/anar868/article-context-view/issues"
   },
   "author": "anar868 <55332837+anar868@users.noreply.github.com> (https://github.com/anar868)",
   "license": "MIT",
-  "homepage": "https://github.com/anar868/article-context#readme",
+  "homepage": "https://github.com/anar868/article-context-view#readme",
   "devDependencies": {
     "@types/react": "^18.0.25",
     "babel-plugin-module-resolver": "^5.0.0",
